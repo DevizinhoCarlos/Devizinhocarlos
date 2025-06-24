@@ -1,7 +1,7 @@
 ## Olá! Eu sou Carlos Eduardo 👨🏾‍💻
 **`Desenvolvedor FullStack`**
 
-Me chamo Carlos Eduardo, tenho 24 anos e sou natural do Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
+Me chamo Carlos Eduardo, tenho 24 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
 
 <p align="left">
     </a>
