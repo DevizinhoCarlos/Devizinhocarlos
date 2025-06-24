@@ -79,7 +79,7 @@ Me chamo Carlos Eduardo, tenho 24 anos e sou natural do Pernambuco. Atualmente, 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevizinhoCarlos&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=4" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevizinhoCarlos&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
